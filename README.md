@@ -15,4 +15,5 @@ pip install pandas == 1.3.1
 说明: SNP: RSID, CHR: 染色体编号, BP: 碱基对位置, A1: 参考等位基因, A2: 祖先等位基因
 # 参考链接：
 网站主页: https://www.pggsnv.org/
+
 [1] Chao Zhang#, Yang Gao#, Zhilin Ning#, Yan Lu#, Xiaoxi Zhang, Jiaojiao Liu, Bo Xie, Zhe Xue, Xiaoji Wang, Kai Yuan, Xueling Ge, Yuwen Pan, Chang Liu, Lei Tian, Yuchen Wang, Dongsheng Lu, Boon-Peng Hoh, Shuhua Xu*. PGG.SNV: understanding the evolutionary and medical implications of human single nucleotide variations in diverse populations. Genome Biology (2019), 20:215. https://doi.org/10.1186/s13059-019-1838-5
